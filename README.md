@@ -22,3 +22,4 @@ The dataset used is a simulated e-commerce dataset generated using Python's Fake
 2. Open the `Ecommerce_Sales_Dashboard.pbix` file using **Power BI Desktop**.
 3. Explore the dashboard and use the slicers to filter the data.
 
+![d5ac01a004e1c4b0ec721324a824ee7](https://github.com/user-attachments/assets/ba1d825d-acda-4a4c-b2d9-f4fc7017201b)
